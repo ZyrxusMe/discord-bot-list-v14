@@ -1,0 +1,12 @@
+{
+    "token": "Botun_Tokeni",
+    "slashdebug": false,
+    "banner": "",
+    "emojis": {
+        "red": ":x:",
+        "onay": ":white_check_mark:"
+    },
+    "user_token": "Bir_Kullanıcı_tokeni",
+    "dbltoken": "Top_gg_Tokeniniz",
+    "unofficialapi": false
+}
