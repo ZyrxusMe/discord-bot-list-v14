@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-list-v14",
+  "version": "1.0.0",
+  "description": "Bu Bot, Discord Bot List sunucularında kullanılmak üzere hazırlanmış Slash komutlarını destekleyen bir altyapıdır. (Sunucu sayısı vb. bilgileri alabilir.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZyrxusMe",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "node-fetch": "^2.6.6"
+  }
+}
