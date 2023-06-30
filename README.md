@@ -53,4 +53,4 @@ Eğer bu projeye katkıda bulunmak isterseniz, pull request açabilirsiniz. Herh
 
 ## Lisans
 
-Bu proje [MIT Lisansı](blob/main/LICENSE) altında lisanslanmıştır.
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
