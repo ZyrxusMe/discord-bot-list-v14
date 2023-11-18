@@ -13,6 +13,8 @@ module.exports = async(client, member) => {
         let message = await modlog.messages.fetch(bot.message)
         let member = await client.guilds.cache.get(guild.id).members.fetch(bot.owner);
         let botcuk = await client.users.fetch(bot["bot"]);
+        let member2 = await client.guilds.cache.get(guild.id).members.fetch(bot.bot);
+        await member2.roles.add(serverdb["rol-bot"]).catch(console.error);
         await member.roles.add(serverdb["rol-geliştirici"]).catch(console.error);
         const embedcik = new Discord.EmbedBuilder()
           .setColor("Green")
